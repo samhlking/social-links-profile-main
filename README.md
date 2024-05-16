@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://samhlking.github.io/social-links-profile-main/)
+- Live Site URL: [GitHub Pages link](https://samhlking.github.io/social-links-profile-main/)
 
 ## Built with
 
